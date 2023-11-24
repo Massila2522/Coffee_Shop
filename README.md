@@ -3,7 +3,7 @@
 Welcome to Coffee Shop Website repository!
 
 ## Description
-This project is a template for the front end of a coffee shop website, I made it with HTML, CSS, JavaScript.
+This project is an example front end for a coffee shop website, created with HTML, CSS, and JavaScript.
 
 ## Usage
 1. Clone this repository to your local machine.
